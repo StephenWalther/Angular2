@@ -15,7 +15,17 @@
     "typescript": "^1.8.2",
     "url-loader": "^0.5.7",
     "webpack": "^1.12.14",
-    "webpack-hot-middleware": "^2.10.0"
+    "webpack-hot-middleware": "^2.10.0",
+    "jasmine-core": "2.4.1",
+    "karma": "^1.1.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "karma-html-detailed-reporter": "^1.1.8",
+    "phantomjs": "^2.1.7",
+    "karma-webpack": "^1.7.0",
+    "karma-typescript-preprocessor": "^0.2.1",
+    "chai": "^3.5.0",
+    "systemjs": "^0.19.31"
   },
   "dependencies": {
     "@angular/common": "2.0.0-rc.3",
